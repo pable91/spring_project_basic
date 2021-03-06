@@ -45,6 +45,8 @@ class MemberServiceTest {
         Member member1 = new Member();
         member1.setName("spring");
 
+        // test
+
         //given
         Member member2 = new Member();
         member2.setName("spring");
